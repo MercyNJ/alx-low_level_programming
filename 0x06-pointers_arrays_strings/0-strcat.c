@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _strtcat - Concatenates two strings and
+ * _strcat - Concatenates two strings and
  * overwites the terminating null byte at end of dest and
  * adds a terminating null byte
  *
