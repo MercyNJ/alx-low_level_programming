@@ -4,7 +4,7 @@
  * free_dlistint - frees a dlistint_t list
  *
  * @head: head of the list
- * Return: nothing 
+ * Return: nothing
  */
 
 void free_dlistint(dlistint_t *head)
