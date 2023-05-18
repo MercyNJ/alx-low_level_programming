@@ -1,1 +1,12 @@
+/**
+ * main - Entry point.
+ *
+ * This function is the entry point of the program.
+ * It finds the largest palindrome from product of two 3-digit numbers
+ * and saves the result in the file "102-result".
+ * The file contains exact result with no extra characters or new lines.
+ *
+ * Return: Always 0.
+ */
+
 906609
